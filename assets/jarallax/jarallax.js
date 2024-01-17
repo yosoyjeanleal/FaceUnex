@@ -1,13 +1,7 @@
-/*!
- * Name    : Just Another Parallax [Jarallax]
- * Version : 1.7.1
- * Author  : _nK https://nkdev.info
- * GitHub  : https://github.com/nk-o/jarallax
- */
 (function (window) {
     'use strict';
 
-    // Adapted from https://gist.github.com/paulirish/1579671
+    
     if(!Date.now) {
         Date.now = function () { return new Date().getTime(); };
     }
