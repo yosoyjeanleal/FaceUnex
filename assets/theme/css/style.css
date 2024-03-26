@@ -1,7 +1,4 @@
-/*!
- * Default theme v2 (https://mobirise.com/)
- * Copyright 2016 Mobirise
- */
+
 .container {
   position: relative; }
 
@@ -22,7 +19,7 @@
   background-color: #90a878 !important; }
 
 .bg-info {
-  background-color: #7e9b9f !important; }
+  background-color: #802CA6 !important; }
 
 .bg-warning {
   background-color: #f3c649 !important; }
@@ -120,29 +117,29 @@
     opacity: 0.85; }
 
 .btn-info {
-  background-color: #7e9b9f;
-  border-color: #7e9b9f;
+  background-color: #802CA6;
+  border-color: #802CA6;
   box-shadow: none;
   color: #fff; }
   .btn-info:hover {
     color: #fff;
-    background-color: #597478;
-    border-color: #597478;
+    background-color: #802CA6;
+    border-color: #802CA6;
     box-shadow: none; }
   .btn-info:focus, .btn-info.focus {
     color: #fff;
-    background-color: #597478;
-    border-color: #597478; }
+    background-color: #802CA6;
+    border-color: #802CA6; }
   .btn-info:active, .btn-info.active {
     color: #fff;
-    background-color: #597478;
-    border-color: #597478;
+    background-color: #802CA6;
+    border-color: #802CA6;
     background-image: none;
     box-shadow: none; }
   .btn-info.disabled, .btn-info:disabled {
     color: #fff !important;
-    background-color: #597478 !important;
-    border-color: #597478 !important;
+    background-color: #802CA6 !important;
+    border-color: #802CA6 !important;
     opacity: 0.85; }
 
 .btn-success {
@@ -227,7 +224,7 @@
   background-color: #fff;
   border-color: #fff;
   box-shadow: none;
-  color: #535353; }
+  color: #802CA6; }
   .btn-white:hover {
     color: #fff;
     background-color: #d4d4d4;
@@ -250,8 +247,8 @@
     opacity: 0.85; }
 
 .btn-black {
-  background-color: #535353;
-  border-color: #535353;
+  background-color: #802CA6;
+  border-color: #802CA6;
   box-shadow: none;
   color: #fff; }
   .btn-black:hover {
@@ -317,16 +314,16 @@
   color: #4e6669; }
   .btn-info-outline:focus, .btn-info-outline.focus, .btn-info-outline:active, .btn-info-outline.active {
     color: #fff;
-    background-color: #7e9b9f;
-    border-color: #7e9b9f; }
+    background-color: #802CA6;
+    border-color: #802CA6; }
   .btn-info-outline:hover {
     color: #fff;
-    background-color: #7e9b9f;
-    border-color: #7e9b9f; }
+    background-color: #802CA6;
+    border-color: #802CA6; }
   .btn-info-outline.disabled, .btn-info-outline:disabled {
     color: #fff !important;
-    background-color: #7e9b9f !important;
-    border-color: #7e9b9f !important;
+    background-color: #802CA6 !important;
+    border-color: #802CA6 !important;
     opacity: 0.85; }
 
 .btn-success-outline {
@@ -388,15 +385,15 @@
   border-color: #fff;
   color: #fff; }
   .btn-white-outline:focus, .btn-white-outline.focus, .btn-white-outline:active, .btn-white-outline.active {
-    color: #535353;
+    color: #802CA6;
     background-color: #fff;
     border-color: #fff; }
   .btn-white-outline:hover {
-    color: #535353;
+    color: #802CA6;
     background-color: #fff;
     border-color: #fff; }
   .btn-white-outline.disabled, .btn-white-outline:disabled {
-    color: #535353 !important;
+    color: #802CA6 !important;
     background-color: #fff !important;
     border-color: #fff !important;
     opacity: 0.85; }
@@ -407,16 +404,16 @@
   color: #202020; }
   .btn-black-outline:focus, .btn-black-outline.focus, .btn-black-outline:active, .btn-black-outline.active {
     color: #fff;
-    background-color: #535353;
-    border-color: #535353; }
+    background-color: #802CA6;
+    border-color: #802CA6; }
   .btn-black-outline:hover {
     color: #fff;
-    background-color: #535353;
-    border-color: #535353; }
+    background-color: #802CA6;
+    border-color: #802CA6; }
   .btn-black-outline.disabled, .btn-black-outline:disabled {
     color: #fff !important;
-    background-color: #535353 !important;
-    border-color: #535353 !important;
+    background-color: #802CA6 !important;
+    border-color: #802CA6 !important;
     opacity: 0.85; }
 
 a.mbr-iconfont:hover {
@@ -574,7 +571,7 @@ p.lead,
   color: #fff; }
 
 .alert-info {
-  background-color: #7e9b9f;
+  background-color: #802CA6;
   color: #fff; }
 
 .alert-warning {
@@ -613,7 +610,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   color: #90a878 !important; }
 
 .text-info {
-  color: #7e9b9f !important; }
+  color: #802CA6 !important; }
 
 .text-warning {
   color: #f3c649 !important; }
@@ -625,7 +622,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   color: #fff !important; }
 
 .text-black {
-  color: #535353 !important; }
+  color: #802CA6 !important; }
 
 .mbr-section {
   position: relative;
